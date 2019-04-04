@@ -1,0 +1,6 @@
+owner=562653700456185858
+prefix=A
+game=BOT BY Pnepen|break Aplay
+stayinchannel=true
+songinstatus=false
+token=NTYzNDk2MDY3MjkxODA3Nzg1.XKaKug.cXbZhlduod28xdY8n9KF4eb53no
